@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignmentkrishi</string>
+    <string name="play">Play</string>
+    <string name="signup">SignUp</string>
+    <string name="email">Email</string>
+    <string name="submit">submit</string>
+    <string name="name">Name</string>
+    <string name="second_page">Second Page</string>
+    <string name="third_page">Third Page</string>
+</resources>
